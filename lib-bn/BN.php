@@ -3,6 +3,7 @@
 namespace BN;
 
 use BI\BigInteger;
+use JsonSerializable;
 
 class BN implements JsonSerializable
 {
