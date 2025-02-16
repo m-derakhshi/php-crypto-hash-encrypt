@@ -1,0 +1,24 @@
+{
+  "name": "m-derakhshi/php-crypto-hash-encrypt",
+  "description": "php-crypto-hash-encrypt",
+  "autoload": {
+    "psr-4": {
+      "Elliptic\\": "lib/",
+      "BN\\": "lib-bn/",
+      "BI\\": "lib-bi/",
+      "MDerakhshi\\PHPCryptoHashEncrypt\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Masoud Derakhshi",
+      "email": "mderakhshi1992@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.2"
+  },
+  "require-dev": {
+    "laravel/pint": "*"
+  }
+}
