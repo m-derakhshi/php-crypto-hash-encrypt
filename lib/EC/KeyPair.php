@@ -2,7 +2,7 @@
 
 namespace Elliptic\EC;
 
-use BN;
+use BN\BN;
 
 class KeyPair
 {

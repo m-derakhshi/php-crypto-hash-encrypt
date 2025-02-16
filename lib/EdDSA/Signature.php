@@ -2,7 +2,7 @@
 
 namespace Elliptic\EdDSA;
 
-use BN;
+use BN\BN;
 use Elliptic\Utils;
 
 class Signature

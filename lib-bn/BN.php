@@ -1,5 +1,7 @@
 <?php
 
+namespace BN;
+
 use BI\BigInteger;
 
 class BN implements JsonSerializable

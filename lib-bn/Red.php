@@ -1,5 +1,9 @@
 <?php
 
+namespace BN;
+
+use Exception;
+
 class Red
 {
     public static $ASSERT_ENABLED;
@@ -248,4 +252,5 @@ class Red
         return $res;
     }
 }
+
 Red::$ASSERT_ENABLED = ini_get('zend.assertions') === '1';

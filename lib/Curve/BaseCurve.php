@@ -2,7 +2,7 @@
 
 namespace Elliptic\Curve;
 
-use BN;
+use BN\BN;
 use Elliptic\Utils;
 use Exception;
 

@@ -2,7 +2,7 @@
 
 namespace Elliptic;
 
-use BN;
+use BN\BN;
 use Exception;
 
 if (! function_exists('random_int')) {

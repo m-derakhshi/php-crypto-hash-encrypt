@@ -2,7 +2,7 @@
 
 namespace Elliptic\Curve\ShortCurve;
 
-use BN;
+use BN\BN;
 
 class JPoint extends \Elliptic\Curve\BaseCurve\Point
 {

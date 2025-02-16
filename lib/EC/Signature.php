@@ -2,7 +2,7 @@
 
 namespace Elliptic\EC;
 
-use BN;
+use BN\BN;
 use Elliptic\Utils;
 
 class Signature

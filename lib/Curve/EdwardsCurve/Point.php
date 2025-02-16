@@ -2,7 +2,7 @@
 
 namespace Elliptic\Curve\EdwardsCurve;
 
-use BN;
+use BN\BN;
 
 class Point extends \Elliptic\Curve\BaseCurve\Point
 {

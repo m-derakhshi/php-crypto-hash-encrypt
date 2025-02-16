@@ -2,7 +2,7 @@
 
 namespace Elliptic\Curve\ShortCurve;
 
-use BN;
+use BN\BN;
 use JsonSerializable;
 
 class Point extends \Elliptic\Curve\BaseCurve\Point implements JsonSerializable

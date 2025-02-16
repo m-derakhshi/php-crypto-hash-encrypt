@@ -2,7 +2,7 @@
 
 namespace Elliptic;
 
-use BN;
+use BN\BN;
 use Elliptic\Curve\PresetCurve;
 use Elliptic\EC\KeyPair;
 use Elliptic\EC\Signature;
